@@ -9,4 +9,10 @@ public class GC{
 		//Return the new GC object
 		return newGC;
 	}
+
+	public static void main(String [] args){
+		//Make a GC instance variable
+		GC gc1;
+
+	}
 }
