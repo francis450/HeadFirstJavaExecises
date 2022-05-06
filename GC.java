@@ -13,6 +13,7 @@ public class GC{
 	public static void main(String [] args){
 		//Make a GC instance variable
 		GC gc1;
-
+		//Make a second reference and assign a new object to it 
+		GC gc2 = new GC();
 	}
 }
