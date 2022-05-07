@@ -19,5 +19,7 @@ public class GC{
 		GC gc3 = new GC();
 		//Make a fourth reference and assign it to the object referenced by the third reference
 		GC gc4 = gc3;
+		//Assign the object returned the doStuff() method to the first reference variable
+		gc1 = doStuff();
 	}
 }
