@@ -22,4 +22,9 @@ public class GC{
 		//Assign the object returned the doStuff() method to the first reference variable
 		gc1 = doStuff();
 	}
+
+	//second doStuff() method
+	public static void doStuff2(GC copyGC){
+
+	}
 }
