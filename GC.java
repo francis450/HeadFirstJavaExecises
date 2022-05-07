@@ -17,5 +17,7 @@ public class GC{
 		GC gc2 = new GC();
 		//Make a third reference and assign a new object to it
 		GC gc3 = new GC();
+		//Make a fourth reference and assign it to the object referenced by the third reference
+		GC gc4 = gc3;
 	}
 }
