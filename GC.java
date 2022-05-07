@@ -25,6 +25,7 @@ public class GC{
 
 	//second doStuff() method
 	public static void doStuff2(GC copyGC){
-
+		//Assign the GC object in the argument list to a instance reference
+		GC localGC = copyGC;
 	}
 }
