@@ -7,7 +7,8 @@ class Shuffle1{
 
 		//execute the curly braces if x greater than two
 		if( x > 2){
-
+			//Print out 'a'
+			System.out.print("a");
 		}
 	}
 
