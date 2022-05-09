@@ -10,7 +10,9 @@ class Shuffle1{
 			//Print out 'a'
 			System.out.print("a");
 			//Decrement x
-			x = x - 1;
+			x = x - 1;	
+			//Print out hyphen
+			System.out.print("-");
 		}
 	}
 
