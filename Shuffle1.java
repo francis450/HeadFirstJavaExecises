@@ -17,7 +17,8 @@ class Shuffle1{
 
 		//execute the curly braces if x is equal to two
 		if(x == 2){
-
+			//Print out 'b c' to match the books pattern
+			System.out.print("b  c");
 		}
 	}
 
