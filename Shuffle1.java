@@ -14,6 +14,11 @@ class Shuffle1{
 			//Print out hyphen
 			System.out.print("-");
 		}
+
+		//execute the curly braces if x is equal to two
+		if(x == 2){
+
+		}
 	}
 
 }
