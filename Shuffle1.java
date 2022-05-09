@@ -19,6 +19,8 @@ class Shuffle1{
 		if(x == 2){
 			//Print out 'b c' to match the books pattern
 			System.out.print("b  c");
+			//Decrement x to prevent infinite looping
+			x = x - 1;
 		}
 	}
 
