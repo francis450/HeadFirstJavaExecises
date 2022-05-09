@@ -9,6 +9,8 @@ class Shuffle1{
 		if( x > 2){
 			//Print out 'a'
 			System.out.print("a");
+			//Decrement x
+			x = x - 1;
 		}
 	}
 
