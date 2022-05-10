@@ -21,6 +21,8 @@ class Shuffle1{
 			System.out.print("b  c");
 			//Decrement x to prevent infinite looping
 			x = x - 1;
+			//Print out a hyphen
+			System.out.print("-");
 		}
 	}
 
