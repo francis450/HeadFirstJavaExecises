@@ -27,7 +27,10 @@ class Shuffle1{
 
 		//Do not enter through the curly braces unless x is greater than 0
 		while(x > 0){
+			//Print 'd' if x equal to one
+				if( x == 1){
 
+				}
 		}
 	}
 
