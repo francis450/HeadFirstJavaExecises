@@ -29,7 +29,9 @@ class Shuffle1{
 		while(x > 0){
 			//Print 'd' if x equal to one
 				if( x == 1){
-
+					System.out.print("d");
+					//Decrement to prevent infinite looping
+					x = x - 1;
 				}
 		}
 	}
