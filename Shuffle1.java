@@ -24,6 +24,11 @@ class Shuffle1{
 			//Print out a hyphen
 			System.out.print("-");
 		}
+
+		//Do not enter through the curly braces unless x is greater than 0
+		while(x > 0){
+
+		}
 	}
 
 }
