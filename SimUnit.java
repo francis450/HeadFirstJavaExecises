@@ -12,7 +12,8 @@ public class SimUnit{
 	int powerUse(){
 		//Check if the botType is equal to 'Retention'
 		if("Retention".equals(botType)){
-			
+			//Return 2 if botType is equal to 'Retension'
+			return 2;
 		}
 	}
 
