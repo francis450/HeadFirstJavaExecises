@@ -10,7 +10,10 @@ public class SimUnit{
 
 	//An int variable for powerUse
 	int powerUse(){
-
+		//Check if the botType is equal to 'Retention'
+		if("Retention".equals(botType)){
+			
+		}
 	}
 
 }
