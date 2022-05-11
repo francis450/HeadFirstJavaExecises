@@ -8,4 +8,9 @@ public class SimUnit{
 		botType = type;
 	}
 
+	//An int variable for powerUse
+	int powerUse(){
+
+	}
+
 }
