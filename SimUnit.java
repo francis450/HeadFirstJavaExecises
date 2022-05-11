@@ -4,7 +4,8 @@ public class SimUnit{
 
 	//A constructor that takes in a string
 	SimUnit(String type){
-
+		//pass the string into the botType string
+		botType = type;
 	}
 
 }
