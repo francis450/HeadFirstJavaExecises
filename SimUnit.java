@@ -14,7 +14,9 @@ public class SimUnit{
 		if("Retention".equals(botType)){
 			//Return 2 if botType is equal to 'Retension'
 			return 2;
+		}else{
+			//Return 4 if botType is not equal to 'Retens'
+			return 4;
 		}
 	}
-
 }
