@@ -7,5 +7,7 @@ class TestLifeSupportSim{
 		ArrayList<SimUnit> aList = new ArrayList<SimUnit>();
 		//Make a new V2radiator and assign it a reference v2
 		V2Radiator v2 = new V2Radiator(aList);	
+		//MAke a new V#Radiator and assign it a reference v3
+		V3Radiator v3 = new V3Radiator(aList);
 	}
 }
